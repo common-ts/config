@@ -1,6 +1,6 @@
 {
   "name": "config-plus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Merge 2 configurations, merge configuration with environment variables",
   "main": "./lib/index.js",
   "types": "./src/index.ts",
@@ -9,7 +9,7 @@
     "clean:lib": "rimraf lib"
   },
   "devDependencies": {
-    "@types/node": "^14.0.5",
+    "@types/node": "^14.0.27",
     "tslint": "5.10.0",
     "typescript": "^3.3.3333"
   },
